@@ -1,0 +1,1 @@
+Create a fully MIT-licensed S3-compatible object storage system that can be deployed commercially without license encumbrances. The system should provide core S3 API functionalities—such as bucket and object operations—while avoiding AGPL or similarly restrictive code bases.
